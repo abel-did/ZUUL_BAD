@@ -1,0 +1,35 @@
+take ticket
+go east
+go north
+look rules
+go south
+take key
+go up
+go south
+look scroll
+take scroll
+go down
+look parchment
+take parchment
+go up
+go east
+drop scroll
+drop parchment
+look scroll
+look parchment
+go down
+back
+eat cookie
+look 
+go north
+go west 
+take boot
+go north
+go south
+go east
+go north
+go south
+go west
+look 
+drop boot
+help

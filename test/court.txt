@@ -1,0 +1,3 @@
+take ticket
+go east
+look

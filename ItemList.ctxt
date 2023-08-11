@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ItemList
+comment0.text=\r\n\ Classe\ ItemList\ -\ Les\ items\ du\ jeu\r\n\r\n\ @author\ DIDOUH\ Abel\r\n\ @date\ \ \ 04/01/2023\r\n\ @version\ Exercice\ 7.43\r\n
+comment1.params=
+comment1.target=ItemList()
+comment1.text=\r\n\ Constructeur\ par\ d\u00E9faut\r\n
+comment2.params=pName
+comment2.target=Item\ getItem(java.lang.String)
+comment2.text=\r\n\ Accesseur\ sur\ l'attribut\ aItems\r\n\ @param\ pName\ nom\ de\ l'objet\r\n\ @return\ Item\ aItems\r\n
+comment3.params=pName\ pItem
+comment3.target=void\ putItem(java.lang.String,\ Item)
+comment3.text=\r\n\ Procedure\ qui\ ajoute\ un\ item\r\n\ @param\ pName\ nom\ de\ l'objet\r\n\ @param\ pItem\ objet\r\n
+comment4.params=pName
+comment4.target=void\ removeItem(java.lang.String)
+comment4.text=\r\n\ Procedure\ qui\ supprime\ un\ item\r\n\ @param\ pName\ nom\ de\ l'objet\r\n
+comment5.params=
+comment5.target=java.lang.String\ getItemsString()
+comment5.text=\r\n\ Fonction\ qui\ renvoie\ une\ chaine\ comprennant\ les\ items\r\n
+comment6.params=pItemName
+comment6.target=boolean\ itemInList(java.lang.String)
+comment6.text=\r\n\ Procedure\ qui\ verifie\ si\ l'item\ est\ dans\ la\ liste\r\n\ @param\ pItemName\ nom\ de\ l'objet\r\n
+comment7.params=
+comment7.target=java.lang.String\ inventory()
+comment7.text=\r\n\ Fonction\ qui\ retourne\ l'inventaire\ du\ joueur.\r\n
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Classe\ Game\ -\ le\ moteur\ du\ jeu\ \:\ Welcome\ to\ the\ Castle\r\n\ \r\n\ @author\ DIDOUH\ Abel\r\n\ @date\ \ \ 04/01/2023\r\n\ @version\ Exercice\ 7.43\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Creer\ le\ jeu\r\n
+numComments=2

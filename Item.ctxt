@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Classe\ Item\ -\ un\ Item\ du\ jeu\ Welcome\ to\ the\ Castle\r\n\r\n\ @author\ DIDOUH\ Abel\r\n\ @date\ \ \ 04/01/2023\r\n\ @version\ Exercice\ 7.43\r\n
+comment1.params=pName\ pWeight\ pDescription
+comment1.target=Item(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ naturel\ de\ la\ classe\ Item\r\n\ @param\ pName\ \ \ \ \ Name\ \r\n\ @param\ pWeight\ \ \ Weight\r\n\ @param\ pDescription\ Description\r\n
+comment2.params=
+comment2.target=int\ getWeight()
+comment2.text=\r\n\ Accesseur\ sur\ l'attribut\ aWeight\r\n\ @return\ int\ aWeight\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Accesseur\ sur\ l'attribut\ aDescription\r\n\ @return\ String\ aDescription\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ Accesseur\ sur\ l'attribut\ aName\r\n\ @return\ String\ aName\r\n
+comment5.params=
+comment5.target=java.lang.String\ getLongDescription()
+comment5.text=\r\n\ Fonction\ qui\ renvoie\ la\ description\ (Name\ -\ Weight\ -\ Description)\ d'un\ item\r\n\ @return\ String\ Name\ Weight\ Description\r\n
+numComments=6

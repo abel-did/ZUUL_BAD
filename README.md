@@ -1,2 +1,5 @@
-# ZUUL_BAD
- Un jeu 2D en Java
+# ZUUL BAD
+
+Projet Zuul de conception orientée objet en Java d'un jeu d'aventure
+
+
